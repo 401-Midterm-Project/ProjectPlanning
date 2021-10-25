@@ -14,10 +14,10 @@ Describe at least:
 > 2. Work together and help each other out with problems as we need. Talk with each other as much as we can, about our wins, what we need help with, questions we have etc
 > 3. Would always like to be working on the growth mindset
 >4.
-> Commit to strong communication
-> Utilize Trello/GitHub for organization
-> Help each other when needed
-> Follow Agile process, including Stand-Ups
+> -  Commit to strong communication
+> -  Utilize Trello/GitHub for organization
+> -  Help each other when needed
+> -  Follow Agile process, including Stand-Ups
 >
 >
 >Jaren - 
