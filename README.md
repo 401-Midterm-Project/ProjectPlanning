@@ -18,14 +18,20 @@ Describe at least:
 > Utilize Trello/GitHub for organization
 > Help each other when needed
 > Follow Agile process, including Stand-Ups
+>
+>
 >Jaren - 
 >Communication, problem solving
 >Always be available if the team needs help. Help solve any in-group issues.
 >Leadership
 >Work as a team, ask questions when I’m stuck, and share the work that I have done with the group.
+>
+>
 >Misty - Good with repo/planning resource management and staying on task/redirecting focus to task
 >Professional competencies I need to improve are: Communication/public speaking & time management
 >Utilize Trello or agreed planning board for direction, communicate via all available resources, follow agile processes/stand-ups
+>
+>
 >Yvette - My strengths are organization and time-management for deadlines.  I can help remind myself and the team when items are due for our project to make sure we hit those key dates.  I want to develop the Craft Competency further.  I plan to approach the day-to-day work doing the best I can with the card that I checkout and ensuring that I do not bite off more than I can chew or lose sight of what we agreed was the minimum viable product.
 
 
