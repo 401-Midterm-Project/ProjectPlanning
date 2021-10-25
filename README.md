@@ -47,8 +47,11 @@ Communication Plan
 Before beginning to tackle the project, determine how your group will communicate with each other. This is not an individual effort. Make sure everyone feels comfortable with the identified methods of speaking up.
 
 >Ian - in person every day 9a - 5p; with flexible outside hours as needed.  
+>
 >Yvette-online for normal lecture time and then in person for normal lab time.  Online afterwards.
+>>
 >Jaren - in person every day
+>>
 >>Misty - in person every day
 >
 >Use Slack as needed.
