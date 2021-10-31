@@ -2,7 +2,7 @@
 
 ## [GitHub](https://github.com/mistidinzy) &middot; [LinkedIn](https://www.linkedin.com/in/mistidinzy/)
 
-![Misti](/team/Misti.jpeg)
+![Misti](https://bit.ly/2ZJgHIM)
 
 ---
 
