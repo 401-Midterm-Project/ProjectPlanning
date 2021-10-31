@@ -1,6 +1,6 @@
-# ProjectPlanning
+# Project Planning
 
-## Ian, Jaren, Misti, Yvette
+## [Home](/README.md)
 
 ---
 
