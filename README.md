@@ -10,7 +10,7 @@
 
 | [Wireframes](/wireframes/wireframes.md) |
 [Resources](/pages/resources.md) |
-[Trello](https://trello.com/) |
+[Trello](https://trello.com/b/zUADckkN/midterm-project) |
 
 ---
 
