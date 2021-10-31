@@ -2,7 +2,7 @@
 
 ## [GitHub](https://github.com/iwhitmor) &middot; [LinkedIn](https://www.linkedin.com/in/ianwhitmor/)
 
-![Ian](/team/Ian.jpeg)
+![Ian](https://bit.ly/2ZxTFnX)
 
 ---
 
