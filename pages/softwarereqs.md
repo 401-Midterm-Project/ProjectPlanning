@@ -1,53 +1,47 @@
 # Software Requirements
 
-Vision
-Minimum Length: 3-5 sentences
+## [Home](/README.md)
 
-What is the vision of this product?
+---
 
-What pain point does this project solve?
+## SCOPE IN/OUT
 
-Why should we care about your product?
+### IN - What will our project do?
 
-Scope (In/Out)
-IN - What will your product do
-Describe the individual features that your product will do.
-High overview of each. Only need to list 4-5
-Example:
-The web app will provide information to the users about all the different Cat Cafe’s in the area
-The web app will provide both walking and driving directions to each of the destinations
-Users will be able to “Star” their favorite shops.
-Each shop will contain reviews of the customer’s experiences
-OUT - What will your product not do.
-These should be features that you will make very clear from the beginning that you will not do during development. These should be limited and very few. Pick your battles wisely. This should only be 1 or 2 things. Example: My website will never turn into an IOS or Android app.
-Minimum Viable Product vs
-What will your MVP functionality be?
+* The web app will provide all users information about local daycares that they might have an interest in
 
-What are your stretch goals?
+* The web app will allow a user to be distinguished between a parent and a daycare provider when logging in/creating a user account
 
-Stretch
-What stretch goals are you going to aim for?
+* The web app will allow users to create a username and access different parts of the application depending on what type of user they are (parent vs provider)
 
-Functional Requirements
-List the functionality of your product. This will consist of tasks such as the following:
+* The web app will show the parent users information about the different daycares, what they might offer/not offer and allow them to search by the different daycare amenities
 
-An admin can create and delete user accounts
-A user can update their profile information
-A user can search all of the products in the inventory
-Data Flow
-Describe the flow of data in your application. Write out what happens from the time the user begins using the app to the time the user is done with the app. Think about the “Happy Path” of the application. Describe through visuals and text what requests are made, and what data is processed, in addition to any other details about how the user moves through the site.
+* The web app will allow daycare providers the ability to add their daycare to the app so that parent users can then search for the daycare
 
-Non-Functional Requirements (301 & 401 only)
-Non-functional requirements are requirements that are not directly related to the functionality of the application but still important to the app.
+### OUT - What will our project NOT do?
 
-Examples include:
+* Our app will not offer an application process for different daycares
 
-Security
-Usability
-Testability
-etc….
-Pick 2 non-functional requirements and describe their functionality in your application.
+* Our app will not offer an option for the user to review different daycares
 
-If you are stuck on what non-functional requirements are, do a quick online search and do some research. Write a minimum of 3-5 sentences to describe how the non-functional requirements fits into your app.
+---
 
-You MUST describe what the non-functional requirement is and how it will be implemented. Simply saying “Our project will be testable for testibility” is NOT acceptable. Tell us how, why, and what.
+## Functional Requirements
+
+1) As a daycare owner, I want to create an account so I can login & manage my business' location/contact info
+2) As a daycare owner, I'd like to publicly display my location on the site
+3) As a daycare owner, I'd like to add/remove amenities that my location has
+4) As a daycare owner, I need to be able to add my license info to verify my business as a legal daycare
+5) As a parent user I want to be able to create an account
+6) As a parent user, I want the site to remember me
+7) As a parent user, I would like to be able to save my searches
+8) As a parent user, I'd like to see contact info for the daycares
+9) As a parent user, I'd like to be able to see a daycare's availability
+10) As a daycare owner, I'd like to be able to update my location's availability
+
+## Non-Functional Requirements
+
+1) Security - the security on the site would be defined by the roles so that the parent and the daycare can only add/modify their own information
+2) Testability - we will be able to test the routes of our site through Swagger and that the migrations are logging/saving our data as we had anticipated
+
+---

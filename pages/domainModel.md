@@ -1,5 +1,9 @@
 # Domain Model &middot; Daycare Application Concepts
 
+## [Home](/README.md)
+
+---
+
 ## Daycares
 
 * Name
@@ -42,3 +46,5 @@
 * Can do a specific search of all daycares in the database and filter by amenities
 * Can update/edit/save a search to their account
 * Does not have access to other accounts
+
+---

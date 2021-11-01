@@ -1,5 +1,7 @@
 # Links & Resources
 
+## [Home](/README.md)
+
 ---
 
 [Iowa DHS Licensure](https://dhs.iowa.gov/licensure-and-registration)

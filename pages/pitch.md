@@ -41,3 +41,5 @@ Daycare owners will be able to add their daycare along with adding and removing 
 * Welcome email on sign-up
 * Availability Forecasting
 * Site owner to assign staff roles
+
+---

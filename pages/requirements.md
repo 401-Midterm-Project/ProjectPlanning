@@ -1,5 +1,9 @@
 # Midterm Project * Week 5
 
+## [Home](/README.md)
+
+---
+
 Welcome to your midterm project!
 
 Your midterm project will require your team to build out a backend service with either no UI (an API) or a minimal UI (CLI App) with the following requirements
@@ -38,7 +42,10 @@ Your midterm project will require your team to build out a backend service with 
 	 * CRUD operations
 1. You may optionally utilize other 3rd party apis to enhance functionality on your app.
 
-## Deployment Platform:
+## Deployment Platform
+
 * Azure
 * App Services
 * SQL Server
+
+---
