@@ -1,4 +1,4 @@
-# 401 Midterm Project &middot; November 2021
+# 401 Midterm Project &middot; November 2021 &middot; DaytaCare
 
 ## **[Ian Whitmore](/team/Ian.md) &middot; [Jaren Schnoebelen](/team/Jaren.md) &middot; [Yvette Clapp](/team/Yvette.md) &middot; [Misti Dinzy](/team/Misti.md)**
 
