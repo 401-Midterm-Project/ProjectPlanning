@@ -9,7 +9,7 @@
 [Software/App Requirements](/pages/softwareReqs.md) |
 [Project Requirements](/pages/requirements.md) |
 
-| [Wireframes](/wireframes/wireframes.md) |
+| [Wireframes](/pages/wireframes/wireframes.md) |
 [Domain Model](/pages/domainModel.md) |
 [ERD](/pages/ERD/ERD.md) |
 
