@@ -67,7 +67,8 @@
 
 ## Non-Functional Requirements
 
-1) Security - the security on the site would be defined by the roles so that the parent and the daycare can only add/modify their own information.
-2) Testability - we will be able to test the routes of our site through Swagger and that the migrations are logging/saving our data as we had anticipated.
+1. Security - the security on the site would be defined by the roles so that the parent and the daycare can only add/modify their own information.
+
+2. Testability - we will be able to test the routes of our site through Swagger and that the migrations are logging/saving our data as we had anticipated.
 
 ---
