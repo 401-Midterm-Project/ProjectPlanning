@@ -6,12 +6,14 @@
 
 | [Project Agreement](/pages/agreement.md) |
 [Project Pitch](/pages/pitch.md) |
-[Software/App Requirements](/pages/softwareReqs.md) |
 [Project Requirements](/pages/requirements.md) |
 
-| [Wireframes](/pages/wireframes/wireframes.md) |
+| [Software/App Requirements](/pages/softwareReqs.md) |
 [Domain Model](/pages/domainModel.md) |
 [ERD](/pages/ERD/ERD.md) |
+
+| [Wireframes](/pages/wireframes/wireframes.md) |
+[User Stories](/pages/userStories/userStories.md) |
 
 | [Resources](/pages/resources.md) |
 [Trello](https://trello.com/b/zUADckkN/midterm-project) |
