@@ -1,6 +1,6 @@
 # Entity Relationship Diagram (ERD)
 
-## [Home](/README.md)
+## [Home](../../README.md)
 
 ---
 
