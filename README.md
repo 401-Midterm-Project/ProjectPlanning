@@ -14,6 +14,3 @@
 
 ---
 
-## Problem Domain
-
----
