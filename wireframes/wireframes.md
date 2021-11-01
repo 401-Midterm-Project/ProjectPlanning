@@ -1,9 +1,0 @@
-# Wireframes
-
-## [Home](/README.md)
-
-![]()
-![]()
-![]()
-
----
