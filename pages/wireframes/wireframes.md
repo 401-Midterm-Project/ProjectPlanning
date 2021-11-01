@@ -10,7 +10,7 @@
 
 ### Sign Up & Login
 
-![Sign Up & Login](SignupLogin.png)
+![Sign Up & Login](Login.png)
 
 ### Account Page
 
