@@ -1,6 +1,6 @@
 # Domain Model &middot; Daycare Application Concepts
 
-## [Home](/README.md)
+## [Home](../README.md)
 
 ---
 

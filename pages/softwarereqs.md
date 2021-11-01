@@ -1,6 +1,6 @@
 # Software Requirements
 
-## [Home](/README.md)
+## [Home](../README.md)
 
 ---
 

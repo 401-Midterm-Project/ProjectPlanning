@@ -1,6 +1,6 @@
 # Links & Resources
 
-## [Home](/README.md)
+## [Home](../README.md)
 
 ---
 

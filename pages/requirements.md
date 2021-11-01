@@ -1,6 +1,6 @@
 # Midterm Project * Week 5
 
-## [Home](/README.md)
+## [Home](../README.md)
 
 ---
 

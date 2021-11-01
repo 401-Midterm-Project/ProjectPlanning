@@ -1,6 +1,6 @@
 # User Stories
 
-## [Home](/README.md)
+## [Home](../../README.md)
 
 ---
 

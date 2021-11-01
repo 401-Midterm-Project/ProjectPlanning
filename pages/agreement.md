@@ -1,6 +1,6 @@
 # Project Planning
 
-## [Home](/README.md)
+## [Home](../README.md)
 
 ---
 

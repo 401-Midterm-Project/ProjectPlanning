@@ -1,6 +1,6 @@
 # Pitch &middot; Vision &middot; MVP
 
-## [Home](/README.md)
+## [Home](../README.md)
 
 ---
 
