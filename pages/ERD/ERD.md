@@ -6,4 +6,6 @@
 
 ![ERD](DaycareERD.png)
 
+![ERD Final](ERD.png)
+
 ---
