@@ -9,3 +9,7 @@
 ![Stretch](userStoriesStretch.jpg)
 
 ---
+
+![Whiteboard](TrelloBoardIRL.jpg)
+
+---
