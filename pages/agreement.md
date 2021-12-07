@@ -16,7 +16,7 @@ Every person on your team is an asset. This is your chance to discover the hidde
 
 ### Jaren -
 
-> * Communication, problem solving.
+> * Teamwork, problem solving.
 > * Always be available if the team needs help. Help solve any in-group issues.
 > * Leadership.
 > * Work as a team, ask questions when I’m stuck, and share the work that I have done with the group.
@@ -60,7 +60,7 @@ Yvette -
 > Updated 12/06/2021 - I will be in from about 9:15/9:30am to 4:30/5:00pm and then working from home after that
 
 Jaren -
-> In person every day
+> In person every day from around 9:15 - 5pm during project week.
 
 Misti -
 > In person every day as much as possible during project week.
