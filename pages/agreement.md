@@ -57,6 +57,7 @@ Ian -
 
 Yvette -
 > Online for normal lecture time and then in person for normal lab time.  Online afterwards.
+> Updated 12/06/2021 - I will be in from about 9:15/9:30am to 4:30/5:00pm and then working from home after that
 
 Jaren -
 > In person every day
