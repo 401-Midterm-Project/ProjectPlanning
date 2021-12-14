@@ -29,7 +29,7 @@
 
 ### Final
 
-| [UI Stuff](appearance.md) |
+| [UI Stuff](ui-planning/appearance.md) |
 [Deployed Site](https://daytacare.netlify.app/) |
 [Final Slideshow (Not Updated Yet)](https://bit.ly/3qfbLVF) |
 
