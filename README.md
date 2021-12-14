@@ -22,10 +22,15 @@
 
 ## Presentation
 
-| [Google Slides](https://bit.ly/3mR0o5t) |
+### Midterm
 
-| [Azure/Swagger Site](daytacare.azurewebsites.net/) |
+| [Midterm Slideshow](https://bit.ly/3mR0o5t) |
+[Azure/Swagger Site](daytacare.azurewebsites.net/) |
+
+### Final
 
 | [UI Stuff](appearance.md) |
+[Deployed Site](https://daytacare.netlify.app/) |
+[Final Slideshow (Not Updated Yet)](https://bit.ly/3qfbLVF) |
 
 ---
