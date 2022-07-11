@@ -71,7 +71,7 @@ Misti -
 
 Explain your work plan to track whether everyone is contributing equally to all parts of the project, and that each person is working on “meaty” problems. This should prevent “lone wolf” efforts and “siloed” efforts.
 
-> * Utilize Trello to break d/Github pages own tasks into small, manageable chunks.
+> * Utilize Trello to break down tasks into small, manageable chunks.
 > * Take ownership of task/feature you feel confident working on, but be mindful of time-boxing and speaking up when struggling for too long.
 > * Try Pair-Programming when stuck on a feature.
 
